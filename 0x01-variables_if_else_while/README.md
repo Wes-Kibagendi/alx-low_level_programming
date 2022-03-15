@@ -1,2 +1,2 @@
-Learning and coding in C if, if else condition in c
-char is of type integral 
+C variable types - char, int, float, double
+If condition, if else, if else if
